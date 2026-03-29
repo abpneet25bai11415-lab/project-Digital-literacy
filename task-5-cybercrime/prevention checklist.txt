@@ -1,0 +1,14 @@
+Prevention Checklist (8 points)
+Use strong and unique passwords
+Enable two-factor authentication
+Do not click on suspicious links
+Verify sender before responding
+Never share OTP or bank details
+Check website URLs carefully
+Use secure networks (avoid public Wi-Fi for banking)
+Monitor bank transactions regularly
+
+Reporting:
+
+National Cyber Crime Portal: cybercrime.gov.in
+Helpline: 1930

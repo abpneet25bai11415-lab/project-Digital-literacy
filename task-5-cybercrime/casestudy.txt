@@ -1,0 +1,8 @@
+Case Study – Cybercrime
+Phishing is a type of cybercrime in which attackers try to trick individuals into revealing sensitive information such as passwords, bank details, or personal data. This is usually done through fake emails, messages, or websites that appear to be from trusted sources like banks or well-known companies.
+
+In a typical phishing scenario, a student may receive an email claiming to be from their bank, stating that their account will be blocked unless they verify their details immediately. The email contains a link that redirects to a fake website that looks identical to the real one. When the student enters their login credentials, the attacker gains access to their account.
+
+Phishing attacks often target students and young users who may not be fully aware of such threats. The consequences can include financial loss, identity theft, and misuse of personal information.
+
+This type of cybercrime is increasing rapidly due to the widespread use of digital platforms. It is important to stay alert and verify the authenticity of messages before taking any action. Awareness and caution are the best ways to prevent falling victim to phishing attacks.
